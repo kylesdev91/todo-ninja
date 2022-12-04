@@ -18,7 +18,6 @@
     <v-btn depressed large class="mx-2 pink white--text">
       <v-icon left>mdi-email</v-icon>
       <span>email me</span>
-      <v-icon right large>mdi-stop</v-icon>
     </v-btn>
     <v-btn fab depressed small dark color="purple">
       <v-icon>mdi-heart</v-icon>
