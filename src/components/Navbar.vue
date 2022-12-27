@@ -2,14 +2,10 @@
   <nav>
     <v-toolbar flat app>
       <v-toolbar-title class="text-uppercase grey--text">
-        <span class="font-weight-light">Todo</span>
-        <span>Ninja</span>
+        <span class="font-weight-light">Kyles</span>
+        <span>Dev</span>
       </v-toolbar-title>
       <v-spacer></v-spacer>
-      <v-btn class="white grey--text">
-        <span>SIGN OUT</span>
-        <v-icon right>mdi-exit-to-app</v-icon>
-      </v-btn>
     </v-toolbar>
   </nav>
 </template>
