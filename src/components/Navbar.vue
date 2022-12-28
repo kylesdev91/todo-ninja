@@ -11,7 +11,7 @@
       </v-toolbar-title>
       <v-spacer></v-spacer>
     </v-toolbar>
-    <v-navigation-drawer app v-model="drawer" class="primary">
+    <v-navigation-drawer temporary app v-model="drawer" class="primary">
       <v-list>
         <v-list-item
           v-for="link in links"
